@@ -1,0 +1,12 @@
+
+.img {
+	height: 300px;
+	width: 300px;
+	background: #767677;
+	position: relative
+}
+
+.text {
+	
+	float: left;
+}
